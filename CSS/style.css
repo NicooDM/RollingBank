@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+.tituloNav{
+    font-family: 'Roboto', sans-serif;
+    
+
+
+}
+.cuadradoAzul{
+    width: 30px;
+    height: 30px;
+    background:dodgerblue;
+    border-radius: 5px;
+}
+@media all  and (max-width: 576px){
+    .sliderResponsive{
+        height: 250px;
+        object-fit: cover;/* Para mantener la proporcion de la imagen*/
+    }
+
+}
